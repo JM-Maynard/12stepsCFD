@@ -8,7 +8,7 @@ This is Step 2 in the 12 steps to CFD code. It demonstrates the non-linear conve
 
 import numpy                 #we're importing numpy and calling it np locally
 from matplotlib import pyplot    #and our 2D plotting library, calling it plt
-get_ipython().magic(u'matplotlib inline')
+
 
 
 nx = 41
